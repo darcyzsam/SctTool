@@ -1,7 +1,4 @@
 /SctTool.exe
 *.exe
-/Agents.md
-/conf
 .temp/
 .vscode/
-/.gitignore
