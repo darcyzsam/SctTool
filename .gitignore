@@ -1,4 +1,5 @@
 /SctTool.exe
 *.exe
+*.docx
 .temp/
 .vscode/
