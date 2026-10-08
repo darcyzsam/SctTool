@@ -4,3 +4,4 @@
 /conf
 .temp/
 .vscode/
+.gitignore
